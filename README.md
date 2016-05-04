@@ -51,9 +51,13 @@ Courses that I am taking through various platforms.
 Courses | Duration | Effort | Enrolled | Completed
 :-- | :--: | :--: | :--: | :--:
 [HarvardX: CS50 Introduction to Computer Science](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info)| 12 weeks | 10 hours/week | Yes | No
+[Learning How to Learn]()| 12 weeks | 10 hours/week | No | No
+
 #### Coursera: [Specializations](https://www.coursera.org/specializations)
 Courses | Duration | Effort | Enrolled | Completed
 :-- | :--: | :--: | :--: | :--:
+[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/)| 1 week1 | 10 hours total | No | No
+[Duke University: Business Metrics for Data-Driven Companies]https://www.coursera.org/learn/analytics-business-metrics/)| 4 weeks | 3-5 hours/week | Yes | No
 #### Udacity: [Nanodegree](https://www.udacity.com/nanodegree)
 Courses | Duration | Effort | Enrolled | Completed
 :-- | :--: | :--: | :--: | :--:

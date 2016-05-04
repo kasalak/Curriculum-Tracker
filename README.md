@@ -1,8 +1,8 @@
 #Curriculum-Tracker
 
-## Main Curriculum (from OSS)
+## Main Curriculum (full credit to OSS)
 
-- [Introduction to Computer Science](#introduction-to-computer-science)
+<!-- #### Not Yet Enrolled In
 - [Math (Mathematical Thinking)](#math-mathematical-thinking)
 - [Program Design](#program-design)
 - [Math (Discrete Math)](#math-discrete-math)
@@ -32,7 +32,7 @@
 - [Big Data](#big-data)
 - [Data Mining](#data-mining)
 - [Internet of Things](#internet-of-things)
-- [Specializations](#specializations)
+- [Specializations](#specializations) -->
 
 ---
 
@@ -41,26 +41,21 @@
 Courses | Duration | Effort | Enrolled | Completed
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5#!)| 9 weeks | 15 hours/week | Yes | No
-[From Nand to Tetris (Part 1) ](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 5-10 hours/week | No | No
 
 
-## Supplemental Curriculum ()
+## Supplemental Curriculum
 Courses that I am taking through various platforms.
 
-#### edX: [xSeries](https://www.edx.org/xseries)
+### edX: [xSeries](https://www.edx.org/xseries)
 Courses | Duration | Effort | Enrolled | Completed
 :-- | :--: | :--: | :--: | :--:
 [HarvardX: CS50 Introduction to Computer Science](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info)| 12 weeks | 10 hours/week | Yes | No
 
-#### Coursera: [Specializations](https://www.coursera.org/specializations)
+### Coursera: [Specializations](https://www.coursera.org/specializations)
 Courses | Duration | Effort | Enrolled | Completed
 :-- | :--: | :--: | :--: | :--:
-[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/)| 1 week | 10 hours total | No | No
-[Duke University: Business Metrics for Data-Driven Companies](https://www.coursera.org/learn/analytics-business-metrics/)| 4 weeks | 3-5 hours/week | Yes | No
+[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/)| 1 week | 10 hours total | Yes | No
+[Duke University: Business Metrics for Data-Driven Companies](https://www.coursera.org/learn/analytics-business-metrics/)| 4 weeks | 5 hours/week | Yes | No
 
-#### Udacity: [Nanodegree](https://www.udacity.com/nanodegree)
-Courses | Duration | Effort | Enrolled | Completed
-:-- | :--: | :--: | :--: | :--:
-#### FutureLearn: [Collections](https://www.futurelearn.com/courses/collections)
-Courses | Duration | Effort | Enrolled | Completed
-:-- | :--: | :--: | :--: | :--:
+### Udacity: [Nanodegree](https://www.udacity.com/nanodegree)
+### FutureLearn: [Collections](https://www.futurelearn.com/courses/collections)

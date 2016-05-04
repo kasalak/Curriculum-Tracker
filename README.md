@@ -38,8 +38,8 @@
 
 ### Introduction to Computer Science
 
-Courses | Duration | Effort
-:-- | :--: | :--:
+Courses | Duration | Effort | Enrolled | Completed
+:-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5#!)| 9 weeks | 15 hours/week
 [From Nand to Tetris (Part 1) ](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 5-10 hours/week
 

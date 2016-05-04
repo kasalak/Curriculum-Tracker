@@ -44,11 +44,8 @@ Courses | Duration | Effort | Enrolled | Completed
 [From Nand to Tetris (Part 1) ](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 5-10 hours/week | No | No
 
 
-### Specializations
-
-After finishing the courses above, start your specializations on the topics that you have more interest.
-
-The following platforms currently offer specializations:
+## Additional Courses
+Courses that I am taking through various platforms.
 
 #### edX: [xSeries](https://www.edx.org/xseries)
 #### Coursera: [Specializations](https://www.coursera.org/specializations)

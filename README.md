@@ -1,6 +1,6 @@
 #Curriculum-Tracker
 
-## Curriculum (using OSS as a baseline)
+## Main Curriculum (from OSS)
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Math (Mathematical Thinking)](#math-mathematical-thinking)
@@ -44,10 +44,19 @@ Courses | Duration | Effort | Enrolled | Completed
 [From Nand to Tetris (Part 1) ](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 5-10 hours/week | No | No
 
 
-## Additional Courses
+## Supplemental Curriculum ()
 Courses that I am taking through various platforms.
 
 #### edX: [xSeries](https://www.edx.org/xseries)
+Courses | Duration | Effort | Enrolled | Completed
+:-- | :--: | :--: | :--: | :--:
+[HarvardX: CS50 Introduction to Computer Science](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info)| 12 weeks | 10 hours/week | Yes | No
 #### Coursera: [Specializations](https://www.coursera.org/specializations)
+Courses | Duration | Effort | Enrolled | Completed
+:-- | :--: | :--: | :--: | :--:
 #### Udacity: [Nanodegree](https://www.udacity.com/nanodegree)
+Courses | Duration | Effort | Enrolled | Completed
+:-- | :--: | :--: | :--: | :--:
 #### FutureLearn: [Collections](https://www.futurelearn.com/courses/collections)
+Courses | Duration | Effort | Enrolled | Completed
+:-- | :--: | :--: | :--: | :--:
